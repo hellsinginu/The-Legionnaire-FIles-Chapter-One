@@ -1,0 +1,25 @@
+{
+  "title": "Neon",
+  "description": "What secrets does the N.E.O.N cult hide behind their facade?",
+  "artist": "Jeoffrey Cotton",
+  "author": "Tom Cuthbert",
+  "cover": "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/NEON.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1643156022",
+      "groups": {
+        "Hellsing Metaverse": [
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/NEON.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/NEONPAGE1.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/NEONPAGE2.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/NEONPAGE3.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/NEONPAGE4.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/NEONPAGE5.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/NEONPAGE6.jpg"
+        ]
+      }
+    }
+  }
+}
