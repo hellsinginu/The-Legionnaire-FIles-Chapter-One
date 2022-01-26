@@ -1,0 +1,24 @@
+{
+  "title": "Blood And Bullets",
+  "description": "What is waiting for Eric Sellars, a battle-hardened NYPD detective in Supernatural Division?",
+  "artist": "Juan Manuel Hernandez",
+  "author": "Jeofrey Cotton",
+  "cover": "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/Akira%20Homage.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1643140860",
+      "groups": {
+        "Hellsing Metaverse": [
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/DETECTIVEPAGE1.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/DETECTIVEPAGE2.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/DETECTIVEPAGE3.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/DETECTIVEPAGE4.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/DETECTIVEPAGE5.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/DETECTIVEPAGE6.jpg"
+        ]
+      }
+    }
+  }
+}
