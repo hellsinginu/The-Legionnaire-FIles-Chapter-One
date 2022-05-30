@@ -1,0 +1,24 @@
+{
+  "title": "Boomtown",
+  "description": "What's lurking in the small town of Potosi, Nevada?",
+  "artist": "Tom Cuthbert",
+  "author": "Jeoffrey Cotton",
+  "cover": "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/Boomtown%20Cover%20-%20Coming%20Soon.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1653930624",
+      "groups": {
+        "Hellsing Metaverse": [
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/Boomtown%20Page%201.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/Boomtown%20Page%202.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/Boomtown%20Page%203.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/Boomtown%20Page%204.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/Boomtown%20Page%205.jpg",
+          "https://hellsinginu.com/static/comics/The%20Legionnaire%20Files/Boomtown%20Page%206.jpg"
+        ]
+      }
+    }
+  }
+}
